@@ -2,6 +2,10 @@
 name = "debug_concisely"
 version = "0.1.0"
 edition = "2024"
+description = "More concise deriver of std::fmt::Debug"
+repository = "https://github.com/akouryy/debug_concisely"
+license = "MIT"
+categories = ["development-tools::debugging"]
 
 [dependencies]
 debug_concisely_derive = { path = "../debug_concisely_derive" }

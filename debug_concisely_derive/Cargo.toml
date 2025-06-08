@@ -2,6 +2,9 @@
 name = "debug_concisely_derive"
 version = "0.1.0"
 edition = "2024"
+description = "Helper crate for debug_concisely"
+repository = "https://github.com/akouryy/debug_concisely"
+license = "MIT"
 
 [lib]
 proc-macro = true
