@@ -1,0 +1,3 @@
+[workspace]
+members = ["debug_concisely", "debug_concisely_derive"]
+resolver = "2"
