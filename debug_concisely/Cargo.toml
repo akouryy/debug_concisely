@@ -8,4 +8,4 @@ license = "MIT"
 categories = ["development-tools::debugging"]
 
 [dependencies]
-debug_concisely_derive = { path = "../debug_concisely_derive" }
+debug_concisely_derive = { path = "../debug_concisely_derive", version = "0.1.0" }
